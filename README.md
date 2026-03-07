@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Ethical Hacker | VAPT Enthusiast<br>Exploring vulnerabilities, writing scripts, and leveling up daily ⚡<br>Learning by breaking, fixing, and automating security 🛡️<br>C • Python • Linux • Ethical Hacking
+CEHv13 [Certified Ethical Hacker] | Aspiring Ethical Hacker | VAPT Enthusiast<br>Exploring vulnerabilities, writing scripts, and leveling up daily ⚡<br>Learning by breaking, fixing, and automating security 🛡️<br>C • Python • Linux • Ethical Hacking
 
 
 ## 🌐 Socials:
